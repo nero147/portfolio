@@ -1,4 +1,4 @@
-## Outline
+# Outline
 
 Preliminary outline. I will also upload the actual hard copy of this. It's a breakdown of major parts that are going to be going to be translated into user stories later on.
 
@@ -40,14 +40,12 @@ Preliminary outline. I will also upload the actual hard copy of this. It's a bre
   - Work item system
     - Which?
       - Trello (Probably)
-      - JIRA
   - Documentation
     - Markdown
   - API documentation
     - API Blueprint/Dredd/APIary
       - Combo of things for API documentation, display, and CI validation with node.js
   - Acceptance criteria
-    - 
   - ALM type
     - Agile (not scrum since I'm the only one)
   - Sprint length
