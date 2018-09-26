@@ -3,54 +3,54 @@
 Preliminary outline. I will also upload the actual hard copy of this. It's a breakdown of major parts that are going to be going to be translated into user stories later on.
 
 - Python based REST Service
-    - Flash
-    - Pyunit (for unit tests)
+  - Flash
+  - Pyunit (for unit tests)
 - Front end for CRUD (create, read, update, and delete) functions
-    - Angular
+  - Angular
 - Data layer
-    - MySQL
-    - Stateful
+  - MySQL
+  - Stateful
 - Testing harnesses
-    - Java
-    - Selenium
-    - Jmeter
+  - Java
+  - Selenium
+  - Jmeter
 - Infrastructure
-    - IAAS Provider
-        - AWS
-    - Containerization
-        - Docker (probably)
-    - Orchestration
-        - Which?
-            - Kubernetes (Probaly)
-            - Ansible
-            - Chef
-    - Infrastructure as code
-        - Which?
-            - Terraform
-            - Cloudformation
-    - VCS
-        - Git (Github)
-    - OS
-        - Ubuntu
-    - Scaling methodology
-        - Horizontal
-    - CI/CD system
-        - Jenkins
+  - IAAS Provider
+    - AWS
+  - Containerization
+    - Docker (probably)
+  - Orchestration
+    - Which?
+      - Kubernetes (Probaly)
+      - Ansible
+      - Chef
+  - Infrastructure as code
+    - Which?
+      - Terraform
+      - Cloudformation
+  - VCS
+    - Git (Github)
+  - OS
+    - Ubuntu
+  - Scaling methodology
+    - Horizontal
+  - CI/CD system
+    - Jenkins
 - Project management
-    - Work item system
-        - Which?
-            - Trello (Probably)
-            - JIRA
-    - Documentation
-        - Markdown
-    - API documentation
-        - API Blueprint/Dredd/APIary
-            - Combo of things for API documentation, display, and CI validation with node.js
-    - Acceptance criteria
-        - 
-    - ALM type
-        - Agile (not scrum since I'm the only one)
-    - Sprint length
-        - 1-2 weeks
+  - Work item system
+    - Which?
+      - Trello (Probably)
+      - JIRA
+  - Documentation
+    - Markdown
+  - API documentation
+    - API Blueprint/Dredd/APIary
+      - Combo of things for API documentation, display, and CI validation with node.js
+  - Acceptance criteria
+    - 
+  - ALM type
+    - Agile (not scrum since I'm the only one)
+  - Sprint length
+    - 1-2 weeks
 - Also repo badges
-    - Super cool
+  - Super cool
