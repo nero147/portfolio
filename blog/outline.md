@@ -15,40 +15,42 @@ Preliminary outline. I will also upload the actual hard copy of this. It's a bre
     - Selenium
     - Jmeter
 - Infrastructure
-    - AWS
+    - IAAS Provider
+        - AWS
     - Containerization
-    - Docker (probably)
-- Orchestration
-    - Which?
-        - Kubernetes (Probaly)
-        - Ansible
-        - Chef
-- Infrastructure as code
-    - Which?
-        - Terraform
-        - Cloudformation
-- VCS
-    - Git (Github)
-- OS
-    - Ubuntu
-- Scaling methodology
-    - Horizontal
+        - Docker (probably)
+    - Orchestration
+        - Which?
+            - Kubernetes (Probaly)
+            - Ansible
+            - Chef
+    - Infrastructure as code
+        - Which?
+            - Terraform
+            - Cloudformation
+    - VCS
+        - Git (Github)
+    - OS
+        - Ubuntu
+    - Scaling methodology
+        - Horizontal
+    - CI/CD system
+        - Jenkins
 - Project management
-    - Which?
-        - Trello (Probably)
-        - JIRA
-- Documentation
-    - Markdown
-- API documentation
-    - API Blueprint/Dredd/APIary
-        - Combo of things for API documentation, display, and CI validation with node.js
-- Acceptance criteria
-    - 
-- ALM type
-    - Agile (not scrum since I'm the only one)
-- Sprint length
-    - 1-2 weeks
-- CI/CD system
-    - Jenkins
+    - Work item system
+        - Which?
+            - Trello (Probably)
+            - JIRA
+    - Documentation
+        - Markdown
+    - API documentation
+        - API Blueprint/Dredd/APIary
+            - Combo of things for API documentation, display, and CI validation with node.js
+    - Acceptance criteria
+        - 
+    - ALM type
+        - Agile (not scrum since I'm the only one)
+    - Sprint length
+        - 1-2 weeks
 - Also repo badges
     - Super cool
