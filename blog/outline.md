@@ -1,0 +1,54 @@
+## Outline
+
+Preliminary outline. I will also upload the actual hard copy of this. It's a breakdown of major parts that are going to be going to be translated into user stories later on.
+
+- Python based REST Service
+    - Flash
+    - Pyunit (for unit tests)
+- Front end for CRUD (create, read, update, and delete) functions
+    - Angular
+- Data layer
+    - MySQL
+    - Stateful
+- Testing harnesses
+    - Java
+    - Selenium
+    - Jmeter
+- Infrastructure
+    - AWS
+    - Containerization
+    - Docker (probably)
+- Orchestration
+    - Which?
+        - Kubernetes (Probaly)
+        - Ansible
+        - Chef
+- Infrastructure as code
+    - Which?
+        - Terraform
+        - Cloudformation
+- VCS
+    - Git (Github)
+- OS
+    - Ubuntu
+- Scaling methodology
+    - Horizontal
+- Project management
+    - Which?
+        - Trello (Probably)
+        - JIRA
+- Documentation
+    - Markdown
+- API documentation
+    - API Blueprint/Dredd/APIary
+        - Combo of things for API documentation, display, and CI validation with node.js
+- Acceptance criteria
+    - 
+- ALM type
+    - Agile (not scrum since I'm the only one)
+- Sprint length
+    - 1-2 weeks
+- CI/CD system
+    - Jenkins
+- Also repo badges
+    - Super cool
